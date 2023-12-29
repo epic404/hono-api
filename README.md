@@ -5,7 +5,7 @@ A simple project to demonstrate how creating an API with Hono (on Deno) works. H
 ## Getting Started
 
 1. [Install deno](https://docs.deno.com/runtime/manual/getting_started/installation).
-2. Start the dev server with: `deno run --allow-net hello.ts`.
+2. Start the dev server with: `deno run --allow-net main.ts`.
 3. Hit the API to create a JWT with postman.
 
 ## The Good
